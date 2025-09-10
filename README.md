@@ -27,10 +27,10 @@ This project is divided into four main categories:
 ## 📊 Dashboards
 
 ### Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/sales-dashboard.png)
 
 ### 15-Day Forecast Dashboard
-![Forecast Dashboard](images/forecast_dashboard.png)
+![Forecast Dashboard](images/forecast-dashboard.png)
 
 ---
 
@@ -55,11 +55,10 @@ This project is divided into four main categories:
 ```
 sales-supermarket-analysis-power-bi/
  ├── dashboards/
- │    ├── Sales_Dashboard.pbix          # Main sales dashboard
- │    ├── Forecast_15Days.pbix          # 15-day forecast dashboard
+ │    ├── Sales_Supermarket_Analysis.pbix          # Main sales dashboard
  ├── images/
- │    ├── sales_dashboard.png           # Screenshot of Sales Dashboard
- │    ├── forecast_dashboard.png        # Screenshot of Forecast Dashboard
+ │    ├── sales-dashboard.png           # Screenshot of Sales Dashboard
+ │    ├── forecast-dashboard.png        # Screenshot of Forecast Dashboard
  ├── README.md                          # Project overview and insights
  └── .gitignore                         # Git ignore file for temp files
 ```

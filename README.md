@@ -51,7 +51,9 @@ This project is divided into four main categories:
 ---
 
 ## 📁 Repository Structure
-Repo/
+
+```
+sales-supermarket-analysis-power-bi/
  ├── dashboards/
  │    ├── Sales_Dashboard.pbix          # Main sales dashboard
  │    ├── Forecast_15Days.pbix          # 15-day forecast dashboard
@@ -60,7 +62,7 @@ Repo/
  │    ├── forecast_dashboard.png        # Screenshot of Forecast Dashboard
  ├── README.md                          # Project overview and insights
  └── .gitignore                         # Git ignore file for temp files
-
+```
 ---
 
 ## 🚀 How to Use
